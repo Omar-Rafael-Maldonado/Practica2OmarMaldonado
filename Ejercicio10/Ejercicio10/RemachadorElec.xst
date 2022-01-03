@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/omara/OneDrive/Escritorio/Ejercicio10/Ejercicio10/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/omara/OneDrive/Escritorio/Ejercicio10/Ejercicio10/xst"
+elaborate
+-ifn RemachadorElec.prj
+-ifmt mixed

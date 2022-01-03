@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/omara/OneDrive/Escritorio/Ejercicio10/Ejercicio10/RemachadorElec_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="remachadorelec" />
+            <top_module name="std_logic_1164" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/remachadorelec/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/remachadorelec/cp" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cp</obj_property>
+      <obj_property name="ObjectShortName">cp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/remachadorelec/menor" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">menor</obj_property>
+      <obj_property name="ObjectShortName">menor</obj_property>
+   </wvobject>
+   <wvobject fp_name="/remachadorelec/igual" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">igual</obj_property>
+      <obj_property name="ObjectShortName">igual</obj_property>
+   </wvobject>
+   <wvobject fp_name="/remachadorelec/pdr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pdr</obj_property>
+      <obj_property name="ObjectShortName">pdr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/remachadorelec/cr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cr</obj_property>
+      <obj_property name="ObjectShortName">cr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/remachadorelec/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/remachadorelec/mapa" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">mapa</obj_property>
+      <obj_property name="ObjectShortName">mapa</obj_property>
+   </wvobject>
+   <wvobject fp_name="/remachadorelec/sal2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sal2</obj_property>
+      <obj_property name="ObjectShortName">sal2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/remachadorelec/salpdr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">salpdr</obj_property>
+      <obj_property name="ObjectShortName">salpdr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/remachadorelec/salcr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">salcr</obj_property>
+      <obj_property name="ObjectShortName">salcr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/remachadorelec/ctrl" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ctrl</obj_property>
+      <obj_property name="ObjectShortName">ctrl</obj_property>
+   </wvobject>
+   <wvobject fp_name="/remachadorelec/load" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">load</obj_property>
+      <obj_property name="ObjectShortName">load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/remachadorelec/edo_pres" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">edo_pres</obj_property>
+      <obj_property name="ObjectShortName">edo_pres</obj_property>
+   </wvobject>
+   <wvobject fp_name="/remachadorelec/edo_fut" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">edo_fut</obj_property>
+      <obj_property name="ObjectShortName">edo_fut</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,5 @@
+set -tmpdir "C:/.Xilinx/ASMSumaDiferencia/xst/projnav.tmp"
+set -xsthdpdir "C:/.Xilinx/ASMSumaDiferencia/xst"
+elaborate
+-ifn SumaDiferencia.prj
+-ifmt mixed

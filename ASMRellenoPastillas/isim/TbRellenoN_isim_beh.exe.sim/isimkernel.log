@@ -1,0 +1,29 @@
+Command line:
+   TbRellenoN_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64840
+
+Sun Jan 02 18:56:21 2022
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5149.61 Meg
+
+ Total Signals          : 26
+ Total Nets             : 14
+ Total Signal Drivers   : 11
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 375
+Total Line Count : 36
+
+ Total Simulation Time: 0.390625 sec
+
+ Current Memory Usage: 4677.75 Meg
+
+Sun Jan 02 19:18:15 2022
+

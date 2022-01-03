@@ -1,0 +1,29 @@
+Command line:
+   TB_Raton_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55797
+
+Sun Jan 02 21:15:11 2022
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 5150.2 Meg
+
+ Total Signals          : 16
+ Total Nets             : 9
+ Total Signal Drivers   : 8
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 370
+Total Line Count : 25
+
+ Total Simulation Time: 0.53125 sec
+
+ Current Memory Usage: 4678.34 Meg
+
+Sun Jan 02 22:11:13 2022
+

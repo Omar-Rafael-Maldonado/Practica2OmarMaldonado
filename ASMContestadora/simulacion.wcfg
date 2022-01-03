@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/.Xilinx/ASMContestadora/contestadoraTB_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="contestadoratb" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/contestadoratb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/contestadoratb/llamada" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">llamada</obj_property>
+      <obj_property name="ObjectShortName">llamada</obj_property>
+   </wvobject>
+   <wvobject fp_name="/contestadoratb/mensaje" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">mensaje</obj_property>
+      <obj_property name="ObjectShortName">mensaje</obj_property>
+   </wvobject>
+   <wvobject fp_name="/contestadoratb/timbre" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">timbre</obj_property>
+      <obj_property name="ObjectShortName">timbre</obj_property>
+   </wvobject>
+   <wvobject fp_name="/contestadoratb/q2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">q2</obj_property>
+      <obj_property name="ObjectShortName">q2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/contestadoratb/q1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">q1</obj_property>
+      <obj_property name="ObjectShortName">q1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/contestadoratb/q0" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">q0</obj_property>
+      <obj_property name="ObjectShortName">q0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/contestadoratb/led" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">led</obj_property>
+      <obj_property name="ObjectShortName">led</obj_property>
+   </wvobject>
+   <wvobject fp_name="/contestadoratb/grabacion" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">grabacion</obj_property>
+      <obj_property name="ObjectShortName">grabacion</obj_property>
+   </wvobject>
+   <wvobject fp_name="/contestadoratb/display" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">display</obj_property>
+      <obj_property name="ObjectShortName">display</obj_property>
+   </wvobject>
+   <wvobject fp_name="/contestadoratb/activado" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">activado</obj_property>
+      <obj_property name="ObjectShortName">activado</obj_property>
+   </wvobject>
+</wave_config>

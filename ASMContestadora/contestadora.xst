@@ -1,0 +1,5 @@
+set -tmpdir "C:/.Xilinx/ASMContestadora/xst/projnav.tmp"
+set -xsthdpdir "C:/.Xilinx/ASMContestadora/xst"
+elaborate
+-ifn contestadora.prj
+-ifmt mixed

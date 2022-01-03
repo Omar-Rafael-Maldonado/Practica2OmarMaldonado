@@ -1,0 +1,2 @@
+vhdl work "lucesAuto.vhd"
+vhdl work "lucesTB.vhd"

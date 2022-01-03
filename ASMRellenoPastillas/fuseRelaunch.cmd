@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/.Xilinx/ASMRellenoPastillas/prueba_isim_beh.exe" -prj "C:/.Xilinx/ASMRellenoPastillas/prueba_beh.prj" "work.prueba" 

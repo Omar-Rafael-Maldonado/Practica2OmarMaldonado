@@ -1,0 +1,29 @@
+Command line:
+   lucesTB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64480
+
+Sun Jan 02 18:08:40 2022
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5149.58 Meg
+
+ Total Signals          : 26
+ Total Nets             : 14
+ Total Signal Drivers   : 12
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 375
+Total Line Count : 30
+
+ Total Simulation Time: 0.25 sec
+
+ Current Memory Usage: 4677.72 Meg
+
+Sun Jan 02 18:11:17 2022
+

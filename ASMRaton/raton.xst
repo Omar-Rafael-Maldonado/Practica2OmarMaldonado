@@ -1,0 +1,5 @@
+set -tmpdir "C:/.Xilinx/ASMRaton/xst/projnav.tmp"
+set -xsthdpdir "C:/.Xilinx/ASMRaton/xst"
+elaborate
+-ifn raton.prj
+-ifmt mixed

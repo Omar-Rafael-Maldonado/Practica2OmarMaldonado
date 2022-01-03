@@ -1,0 +1,6 @@
+V3 3
+FL C:/.Xilinx/ASMSumaDiferencia/SumaDiferencia.vhd 2022/01/02.23:29:32 P.20131013
+EN work/SumaDiferencia 1641184176 \
+      FL C:/.Xilinx/ASMSumaDiferencia/SumaDiferencia.vhd PB ieee/std_logic_1164 1381692176
+AR work/SumaDiferencia/arq_sumDif 1641184177 \
+      FL C:/.Xilinx/ASMSumaDiferencia/SumaDiferencia.vhd EN work/SumaDiferencia 1641184176

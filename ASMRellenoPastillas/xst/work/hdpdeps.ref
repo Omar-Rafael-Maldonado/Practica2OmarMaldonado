@@ -1,0 +1,8 @@
+V3 3
+FL C:/.Xilinx/ASMRellenoPastillas/rellenoPastillas.vhd 2022/01/02.19:00:00 P.20131013
+EN work/rellenoPastillas 1641168065 \
+      FL C:/.Xilinx/ASMRellenoPastillas/rellenoPastillas.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rellenoPastillas/arq_relleno 1641168066 \
+      FL C:/.Xilinx/ASMRellenoPastillas/rellenoPastillas.vhd \
+      EN work/rellenoPastillas 1641168065

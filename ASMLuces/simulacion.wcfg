@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/.Xilinx/ASMLuces/lucesTB_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="lucestb" />
+            <top_module name="std_logic_1164" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/lucestb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lucestb/vuelta" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">vuelta</obj_property>
+      <obj_property name="ObjectShortName">vuelta</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lucestb/izq" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">izq</obj_property>
+      <obj_property name="ObjectShortName">izq</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lucestb/l1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">l1</obj_property>
+      <obj_property name="ObjectShortName">l1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lucestb/l2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">l2</obj_property>
+      <obj_property name="ObjectShortName">l2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lucestb/l3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">l3</obj_property>
+      <obj_property name="ObjectShortName">l3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lucestb/r1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">r1</obj_property>
+      <obj_property name="ObjectShortName">r1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lucestb/r2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">r2</obj_property>
+      <obj_property name="ObjectShortName">r2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lucestb/r3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">r3</obj_property>
+      <obj_property name="ObjectShortName">r3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lucestb/q0" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">q0</obj_property>
+      <obj_property name="ObjectShortName">q0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lucestb/q1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">q1</obj_property>
+      <obj_property name="ObjectShortName">q1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lucestb/q2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">q2</obj_property>
+      <obj_property name="ObjectShortName">q2</obj_property>
+   </wvobject>
+</wave_config>
